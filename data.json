@@ -1,0 +1,27 @@
+{
+    "product_list":
+    [{
+        "name": "Aigua",
+        "price": 2,
+        "img": "https://raw.githubusercontent.com/SedrK/assets/master/aigua.jpg",
+        "desc": "MINERAL  |  DISPONIBLE"
+    },
+    {
+        "name": "Cervesa",
+        "price": 3,
+        "img": "https://raw.githubusercontent.com/SedrK/assets/master/beer.jpg",
+        "desc": "CORONA / MORITZ / ESTRELLA |  DISPONIBLE"
+    },
+    {
+        "name": "Cubata",
+        "price": 5,
+        "img": "https://raw.githubusercontent.com/SedrK/assets/master/ron.png",
+        "desc": "COCA-COLA / FANTA / SUC  |  DISPONIBLE"
+    },
+    {
+        "name": "Cubata +",
+        "price": 7,
+        "img": "https://raw.githubusercontent.com/SedrK/assets/master/cubata+.jpg",
+        "desc": "REDBULL / MONSTER / BURN  |  DISPONIBLE"
+    }]
+}
